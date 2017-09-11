@@ -1,0 +1,1208 @@
+
+
+<!--Lista kodova navodi vrijednosti atributa za "City" (opstina) klase "_Address" u modulu "building".
+
+Jednostavan rjecnik GML 3.1.1 se koristi za predstavljanje vrijednosti (element "ime") i (od strane covjeka za citanje), opisi(element "opis") vrijednosti su u ovoj datoteci. Vrijednosti se koriste u primjerima dokumenata.
+ -->
+
+<gml:Dictionary
+	xmlns:gml="http://www.opengis.net/gml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="_Address_city" >
+
+	<gml:name>_AbstractBuilding_city</gml:name>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>Beograd-Barajevo</gml:description>
+			<gml:name>100</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id2">
+			<gml:description>Beograd-Voždovac</gml:description>
+			<gml:name>101</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
+			<gml:description>Beograd-Vracar</gml:description>
+			<gml:name>102</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id4">
+			<gml:description>Beograd-Grocka</gml:description>
+			<gml:name>103</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id5">
+			<gml:description>Beograd-Zvezdara</gml:description>
+			<gml:name>104</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id6">
+			<gml:description>Beograd-Zemun</gml:description>
+			<gml:name>105</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id7">
+			<gml:description>Beograd-Lazarevac</gml:description>
+			<gml:name>106</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id8">
+			<gml:description>Beograd-Mladenovac</gml:description>
+			<gml:name>107</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id9">
+			<gml:description>Beograd-Novi Beograd</gml:description>
+			<gml:name>108</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id10">
+			<gml:description>Beograd-Obrenovac</gml:description>
+			<gml:name>109</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id11">
+			<gml:description>Beograd-Palilula</gml:description>
+			<gml:name>110</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id12">
+			<gml:description>Beograd-Rakovica</gml:description>
+			<gml:name>111</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id13">
+			<gml:description>Beograd-Savski Venac</gml:description>
+			<gml:name>112</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id14">
+			<gml:description>Beograd-Sopot</gml:description>
+			<gml:name>113</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id15">
+			<gml:description>Beograd-Stari Grad</gml:description>
+			<gml:name>114</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id16">
+			<gml:description>Beograd-Cukarica</gml:description>
+			<gml:name>115</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id17">
+			<gml:description>Beograd-Surcin</gml:description>
+			<gml:name>116</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id18">
+			<gml:description>Backa Topola</gml:description>
+			<gml:name>117</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id19">
+			<gml:description>Mali Idoš</gml:description>
+			<gml:name>118</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id20">
+			<gml:description>Subotica</gml:description>
+			<gml:name>119</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id21">
+			<gml:description>Žitište</gml:description>
+			<gml:name>120</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id22">
+			<gml:description>Zrenjanin</gml:description>
+			<gml:name>121</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id23">
+			<gml:description>Nova Crnja</gml:description>
+			<gml:name>122</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id24">
+			<gml:description>Novi Becej</gml:description>
+			<gml:name>123</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id25">
+			<gml:description>Secanj</gml:description>
+			<gml:name>124</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>Ada</gml:description>
+			<gml:name>125</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id26">
+			<gml:description>Kanjiža</gml:description>
+			<gml:name>126</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id27">
+			<gml:description>Kikinda</gml:description>
+			<gml:name>127</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id28">
+			<gml:description>Novi Kneževac</gml:description>
+			<gml:name>128</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id29">
+			<gml:description>Senta</gml:description>
+			<gml:name>129</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id30">
+			<gml:description>Coka</gml:description>
+			<gml:name>130</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id31">
+			<gml:description>Alibunar</gml:description>
+			<gml:name>131</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id32">
+			<gml:description>Bela Crkva</gml:description>
+			<gml:name>132</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id33">
+			<gml:description>Vršac</gml:description>
+			<gml:name>133</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id34">
+			<gml:description>Kovacica</gml:description>
+			<gml:name>134</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id35">
+			<gml:description>Kovin</gml:description>
+			<gml:name>135</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id36">
+			<gml:description>Opovo</gml:description>
+			<gml:name>136</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id37">
+			<gml:description>Pancevo</gml:description>
+			<gml:name>137</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id38">
+			<gml:description>Plandište</gml:description>
+			<gml:name>138</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id39">
+			<gml:description>Apatin</gml:description>
+			<gml:name>139</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id40">
+			<gml:description>Kula</gml:description>
+			<gml:name>140</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id41">
+			<gml:description>Odžaci</gml:description>
+			<gml:name>141</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id42">
+			<gml:description>Sombor</gml:description>
+			<gml:name>142</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id43">
+			<gml:description>Petrovaradin</gml:description>
+			<gml:name>143</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id44">
+			<gml:description>Novi Sad</gml:description>
+			<gml:name>144</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id45">
+			<gml:description>Bac</gml:description>
+			<gml:name>145</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id46">
+			<gml:description>Backa Palanka</gml:description>
+			<gml:name>146</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id47">
+			<gml:description>Backi Petrovac</gml:description>
+			<gml:name>147</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id48">
+			<gml:description>Beocin</gml:description>
+			<gml:name>148</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id49">
+			<gml:description>Becej</gml:description>
+			<gml:name>149</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id50">
+			<gml:description>Žabalj</gml:description>
+			<gml:name>150</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id51">
+			<gml:description>Srbobran</gml:description>
+			<gml:name>151</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id52">
+			<gml:description>Sremski Karlovci</gml:description>
+			<gml:name>152</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id53">
+			<gml:description>Temerin</gml:description>
+			<gml:name>153</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id54">
+			<gml:description>Titel</gml:description>
+			<gml:name>154</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id55">
+			<gml:description>Vrbas</gml:description>
+			<gml:name>155</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id56">
+			<gml:description>Indija</gml:description>
+			<gml:name>156</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id57">
+			<gml:description>Irig</gml:description>
+			<gml:name>157</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id58">
+			<gml:description>Pecinci</gml:description>
+			<gml:name>158</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id59">
+			<gml:description>Ruma</gml:description>
+			<gml:name>159</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id60">
+			<gml:description>Sremska Mitrovica</gml:description>
+			<gml:name>160</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id61">
+			<gml:description>Stara Pazova</gml:description>
+			<gml:name>161</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id62">
+			<gml:description>Šid</gml:description>
+			<gml:name>162</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id63">
+			<gml:description>Bogatic</gml:description>
+			<gml:name>163</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id64">
+			<gml:description>Vladimirci</gml:description>
+			<gml:name>164</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id65">
+			<gml:description>Koceljeva</gml:description>
+			<gml:name>165</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id66">
+			<gml:description>Krupanj</gml:description>
+			<gml:name>166</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id67">
+			<gml:description>Loznica</gml:description>
+			<gml:name>167</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id68">
+			<gml:description>Ljubovija</gml:description>
+			<gml:name>168</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id69">
+			<gml:description>Mali Zvornik</gml:description>
+			<gml:name>169</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id70">
+			<gml:description>Šabac</gml:description>
+			<gml:name>170</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id71">
+			<gml:description>Valjevo</gml:description>
+			<gml:name>171</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id72">
+			<gml:description>Lajkovac</gml:description>
+			<gml:name>172</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id73">
+			<gml:description>Ljig</gml:description>
+			<gml:name>173</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id74">
+			<gml:description>Mionica</gml:description>
+			<gml:name>174</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id75">
+			<gml:description>Osecina</gml:description>
+			<gml:name>175</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id76">
+			<gml:description>Ub</gml:description>
+			<gml:name>176</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id77">
+			<gml:description>Velika Plana</gml:description>
+			<gml:name>177</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id78">
+			<gml:description>Smederevo</gml:description>
+			<gml:name>178</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id79">
+			<gml:description>Smederevska Palanka</gml:description>
+			<gml:name>179</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id80">
+			<gml:description>Požarevac</gml:description>
+			<gml:name>180</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id81">
+			<gml:description>Kostolac</gml:description>
+			<gml:name>181</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id82">
+			<gml:description>Veliko Gradište</gml:description>
+			<gml:name>182</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id83">
+			<gml:description>Golubac</gml:description>
+			<gml:name>183</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id84">
+			<gml:description>Žabari</gml:description>
+			<gml:name>184</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id85">
+			<gml:description>Žagubica</gml:description>
+			<gml:name>185</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id86">
+			<gml:description>Kucevo</gml:description>
+			<gml:name>186</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id87">
+			<gml:description>Malo Crnice</gml:description>
+			<gml:name>187</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id88">
+			<gml:description>Petrovac na Mlavi</gml:description>
+			<gml:name>188</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id89">
+			<gml:description>Arandelovac</gml:description>
+			<gml:name>189</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id90">
+			<gml:description>Batocina</gml:description>
+			<gml:name>190</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id91">
+			<gml:description>Knic</gml:description>
+			<gml:name>191</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id92">
+			<gml:description>Kragujevac</gml:description>
+			<gml:name>192</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id93">
+			<gml:description>Raca</gml:description>
+			<gml:name>193</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id94">
+			<gml:description>Topola</gml:description>
+			<gml:name>194</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id95">
+			<gml:description>Lapovo</gml:description>
+			<gml:name>195</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id96">
+			<gml:description>Despotovac</gml:description>
+			<gml:name>196</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id97">
+			<gml:description>Paracin</gml:description>
+			<gml:name>197</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id98">
+			<gml:description>Rekovac</gml:description>
+			<gml:name>198</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id99">
+			<gml:description>Jagodina</gml:description>
+			<gml:name>199</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id100">
+			<gml:description>Svilajnac</gml:description>
+			<gml:name>200</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id101">
+			<gml:description>Cuprija</gml:description>
+			<gml:name>201</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id102">
+			<gml:description>Bor</gml:description>
+			<gml:name>202</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id103">
+			<gml:description>Kladovo</gml:description>
+			<gml:name>203</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id104">
+			<gml:description>Majdanpek</gml:description>
+			<gml:name>204</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id105">
+			<gml:description>Negotin</gml:description>
+			<gml:name>205</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id106">
+			<gml:description>Boljevac</gml:description>
+			<gml:name>206</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id107">
+			<gml:description>Zajecar</gml:description>
+			<gml:name>207</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id108">
+			<gml:description>Knjaževac</gml:description>
+			<gml:name>208</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id109">
+			<gml:description>Sokobanja</gml:description>
+			<gml:name>209</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id110">
+			<gml:description>Arilje</gml:description>
+			<gml:name>210</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id111">
+			<gml:description>Bajina Bašta</gml:description>
+			<gml:name>211</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id112">
+			<gml:description>Kosjeric</gml:description>
+			<gml:name>212</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id113">
+			<gml:description>Nova Varoš</gml:description>
+			<gml:name>213</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id114">
+			<gml:description>Požega</gml:description>
+			<gml:name>214</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id115">
+			<gml:description>Priboj</gml:description>
+			<gml:name>215</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id116">
+			<gml:description>Prijepolje</gml:description>
+			<gml:name>216</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id117">
+			<gml:description>Sjenica</gml:description>
+			<gml:name>217</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id118">
+			<gml:description>Užice</gml:description>
+			<gml:name>218</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id119">
+			<gml:description>Sevojno</gml:description>
+			<gml:name>219</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id120">
+			<gml:description>Cajetina</gml:description>
+			<gml:name>220</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id121">
+			<gml:description>Gornji Milanovac</gml:description>
+			<gml:name>221</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id122">
+			<gml:description>Ivanjica</gml:description>
+			<gml:name>222</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id123">
+			<gml:description>Lucani</gml:description>
+			<gml:name>223</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id124">
+			<gml:description>Cacak</gml:description>
+			<gml:name>224</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id125">
+			<gml:description>Vrnjacka Banja</gml:description>
+			<gml:name>225</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id125">
+			<gml:description>Kraljevo</gml:description>
+			<gml:name>226</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id126">
+			<gml:description>Novi Pazar</gml:description>
+			<gml:name>227</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id127">
+			<gml:description>Raška</gml:description>
+			<gml:name>228</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id128">
+			<gml:description>Tutin</gml:description>
+			<gml:name>229</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id129">
+			<gml:description>Aleksandrovac</gml:description>
+			<gml:name>230</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id130">
+			<gml:description>Brus</gml:description>
+			<gml:name>231</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id131">
+			<gml:description>Varvarin</gml:description>
+			<gml:name>232</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id132">
+			<gml:description>Kruševac</gml:description>
+			<gml:name>233</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id133">
+			<gml:description>Trstenik</gml:description>
+			<gml:name>234</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id134">
+			<gml:description>Cicevac</gml:description>
+			<gml:name>235</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id135">
+			<gml:description>Niška Banja</gml:description>
+			<gml:name>236</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id136">
+			<gml:description>Niš-Pantelej</gml:description>
+			<gml:name>237</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id137">
+			<gml:description>Niš-Crveni Krst</gml:description>
+			<gml:name>238</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id138">
+			<gml:description>Niš-Palilula</gml:description>
+			<gml:name>239</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id139">
+			<gml:description>Niš-Medijana</gml:description>
+			<gml:name>240</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id140">
+			<gml:description>Aleksinac</gml:description>
+			<gml:name>241</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id141">
+			<gml:description>Gadžin Han</gml:description>
+			<gml:name>242</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id142">
+			<gml:description>Doljevac</gml:description>
+			<gml:name>243</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id143">
+			<gml:description>Merošina</gml:description>
+			<gml:name>244</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id144">
+			<gml:description>Ražanj</gml:description>
+			<gml:name>245</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id145">
+			<gml:description>Svrljig</gml:description>
+			<gml:name>246</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id146">
+			<gml:description>Blace</gml:description>
+			<gml:name>247</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id147">
+			<gml:description>Žitorada</gml:description>
+			<gml:name>248</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id148">
+			<gml:description>Kuršumlija</gml:description>
+			<gml:name>249</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id149">
+			<gml:description>Prokuplje</gml:description>
+			<gml:name>250</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id150">
+			<gml:description>Babušnica</gml:description>
+			<gml:name>251</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id151">
+			<gml:description>Bela Palanka</gml:description>
+			<gml:name>252</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id152">
+			<gml:description>Dimitrovgrad</gml:description>
+			<gml:name>253</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id153">
+			<gml:description>Pirot</gml:description>
+			<gml:name>254</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id154">
+			<gml:description>Bojnik</gml:description>
+			<gml:name>255</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id155">
+			<gml:description>Vlasotince</gml:description>
+			<gml:name>256</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id156">
+			<gml:description>Lebane</gml:description>
+			<gml:name>257</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id157">
+			<gml:description>Leskovac</gml:description>
+			<gml:name>258</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id158">
+			<gml:description>Medveda</gml:description>
+			<gml:name>259</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id159">
+			<gml:description>Crna Trava</gml:description>
+			<gml:name>260</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id160">
+			<gml:description>Vranje</gml:description>
+			<gml:name>261</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id161">
+			<gml:description>Vranjska Banja</gml:description>
+			<gml:name>262</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id162">
+			<gml:description>Bosilegrad</gml:description>
+			<gml:name>263</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id163">
+			<gml:description>Bujanovac</gml:description>
+			<gml:name>264</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id164">
+			<gml:description>Vladicin Han</gml:description>
+			<gml:name>265</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id165">
+			<gml:description>Preševo</gml:description>
+			<gml:name>266</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id166">
+			<gml:description>Surdulica</gml:description>
+			<gml:name>267</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id167">
+			<gml:description>Trgovište</gml:description>
+			<gml:name>268</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id168">
+			<gml:description>Glogovac</gml:description>
+			<gml:name>269</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id169">
+			<gml:description>Kacanik</gml:description>
+			<gml:name>270</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id170">
+			<gml:description>Kosovo Polje</gml:description>
+			<gml:name>271</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id171">
+			<gml:description>Lipljan</gml:description>
+			<gml:name>272</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id172">
+			<gml:description>Obilic</gml:description>
+			<gml:name>273</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id173">
+			<gml:description>Podujevo</gml:description>
+			<gml:name>274</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id174">
+			<gml:description>Priština</gml:description>
+			<gml:name>275</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id175">
+			<gml:description>Uroševac</gml:description>
+			<gml:name>276</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id176">
+			<gml:description>Štimlje</gml:description>
+			<gml:name>277</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id177">
+			<gml:description>Štrpce</gml:description>
+			<gml:name>278</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id178">
+			<gml:description>Decani</gml:description>
+			<gml:name>279</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id179">
+			<gml:description>Ðakovica</gml:description>
+			<gml:name>280</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id180">
+			<gml:description>Istok</gml:description>
+			<gml:name>281</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id181">
+			<gml:description>Klina</gml:description>
+			<gml:name>282</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id182">
+			<gml:description>Pec</gml:description>
+			<gml:name>283</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id183">
+			<gml:description>Orahovac</gml:description>
+			<gml:name>284</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id184">
+			<gml:description>Prizren</gml:description>
+			<gml:name>285</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id185">
+			<gml:description>Suva Reka</gml:description>
+			<gml:name>286</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id186">
+			<gml:description>Gora</gml:description>
+			<gml:name>287</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id187">
+			<gml:description>Vucitrn</gml:description>
+			<gml:name>288</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id188">
+			<gml:description>Zubin Potok</gml:description>
+			<gml:name>289</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id189">
+			<gml:description>Leposavic</gml:description>
+			<gml:name>290</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id190">
+			<gml:description>Srbica</gml:description>
+			<gml:name>291</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id191">
+			<gml:description>Kosovska Mitrovica</gml:description>
+			<gml:name>292</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id192">
+			<gml:description>Zvecan</gml:description>
+			<gml:name>293</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id193">
+			<gml:description>Vitina</gml:description>
+			<gml:name>294</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id194">
+			<gml:description>Gnjilane</gml:description>
+			<gml:name>295</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id195">
+			<gml:description>Jagodina</gml:description>
+			<gml:name>296</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id196">
+			<gml:description>Kosovska Kamenica</gml:description>
+			<gml:name>297</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id197">
+			<gml:description>Novo Brdo</gml:description>
+			<gml:name>298</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
+
